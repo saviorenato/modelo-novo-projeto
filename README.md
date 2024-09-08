@@ -1,4 +1,4 @@
-## Environment Setup for the Latest Version of Laravel (PHP, Nginx, Laravel, MySql) Using Docker
+## Setup Laravel (PHP, Nginx, Laravel, MySql) Using Docker
 
 ### Project Structure
 
